@@ -1,0 +1,2 @@
+# BilgeAdamWorkshop3dRepository
+Egitim amaclidir
